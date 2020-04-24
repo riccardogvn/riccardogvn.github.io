@@ -1,5 +1,7 @@
 ---
-permalink: /biblio.html
+layout: page
+title: "remote sensing bibliography"
+permalink: /biblio.html/
 ---
 
 @article{lasaponara_investigating_2014,
