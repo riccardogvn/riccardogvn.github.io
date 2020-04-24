@@ -1,4 +1,6 @@
-
+layout: page
+title: "remote sensing bibliography"
+permalink: /rslb/
 
   Agapiou, Athos, Vasiliki Lysandrou, and Diofantos G. Hadjimitsis. “Optical Remote Sensing Potentials for Looting Detection.” Geosciences 7, no. 4 (December 2017): 98. https://doi.org/10.3390/geosciences7040098.
   
