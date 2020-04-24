@@ -1,9 +1,13 @@
 
 
   Agapiou, Athos, Vasiliki Lysandrou, and Diofantos G. Hadjimitsis. “Optical Remote Sensing Potentials for Looting Detection.” Geosciences 7, no. 4 (December 2017): 98. https://doi.org/10.3390/geosciences7040098.
+  
   Bewley, R., A. Wilson, D. Kennedy, D. Mattingly, R. Banks, M. Bishop, J. Bradbury, et al. “Endangered Archaeology in the Middle East and North Africa: Introducing the EAMENA Project.” CAA2015. Keep the Revolution Going: Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology, 2016. https://eprints.ncl.ac.uk/244773.
+  
   Bowen, Elijah F. W., Brett B. Tofel, Sarah Parcak, and Richard Granger. “Algorithmic Identification of Looted Archaeological Sites from Space.” Frontiers in ICT 4 (2017). https://doi.org/10.3389/fict.2017.00004.
+  
   Casana, Jesse. “Satellite Imagery-Based Analysis of Archaeological Looting in Syria.” Near Eastern Archaeology 78, no. 3 (September 1, 2015): 142–52. https://doi.org/10.5615/neareastarch.78.3.0142.
+  
   Casana, Jesse, and Elise Jakoby Laugier. “Satellite Imagery-Based Monitoring of Archaeological Site Damage in the Syrian Civil War.” PLOS ONE 12, no. 11 (November 30, 2017): e0188589. https://doi.org/10.1371/journal.pone.0188589.
   Casana, Jesse, and Mitra Panahipour. “Satellite-Based Monitoring of Looting and Damage to Archaeological Sites in Syria.” Journal of Eastern Mediterranean Archaeology & Heritage Studies 2, no. 2 (2014): 128–51. https://doi.org/10.5325/jeasmedarcherstu.2.2.0128.
   Caspari, Gino. “Assessing Looting from Space: The Destruction of Early Iron Age Burials in Northern Xinjiang.” Heritage 1, no. 2 (December 2018): 320–27. https://doi.org/10.3390/heritage1020021.
